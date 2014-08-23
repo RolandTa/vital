@@ -1,4 +1,6 @@
-# meteor-boilerplate
+# vital
+
+Playground based on awesome [meteor boilerplate](https://github.com/matteodem/meteor-boilerplate) by matteodem
 
 This boilerplate is here to give you a structure for typical meteor projects, with a console tool to ease up some tasks. Here's what you get
 with it.
